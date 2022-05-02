@@ -1,0 +1,48 @@
+https://youtu.be/1Sek3Y4pgDo
+
+how to use your Web application ？
+
+Hello everyone 
+Here is our games online store Friday night! 
+Our slogan is Expect More, Pay less
+
+
+First, the homepage, anonymous users can view the recent reviews, and the recommended items.
+When user login, it will show 'my reviews' 
+
+For Each review ,there is a link at the top right, u could click it into details page.
+
+
+On the right is the basic information of the product and add to cart button. 5s
+
+When u slide down, there are three tabs showing the description, 4s()highlights and reviews 6s
+-11
+You have to login before write your own review. 3s
+-14
+When u click the write a review button, it will scroll to the textbox automaticlly 7s
+-21
+
+
+
+Then I would like to talk about the profile page
+
+You will see the order history be default. 
+
+Click review tab on the left, user can see all reviews they have write, 
+
+To avoid comments that are too long and unattractive, there is a read more button to click
+
+Also user could  reset their information include name,email, and password.
+If they cancal the page will refresh
+
+{{{}{}
+
+
+
+
+
+
+highlight the various features？
+ui好看
+产品信息清晰丰富
+分类，细节
